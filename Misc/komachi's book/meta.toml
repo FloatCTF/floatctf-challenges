@@ -1,0 +1,11 @@
+name = "komachi's book"
+author = "hakureiyukari01@gmail.com"
+category = "Misc"
+description = "小町摸鱼时会写小说,她可能会将小说变成zip包来存储"
+points = 50.0
+
+attachment = "attachment/book.docx"
+
+[flag]
+value = "flag{komachi-have-some-secret-to-tell-you}"       # is empty stand for dynamic flag
+env_var = "FLAG"

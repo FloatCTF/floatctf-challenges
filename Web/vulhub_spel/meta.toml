@@ -1,0 +1,14 @@
+name = "vulhub_spel_injection"
+author = "fb0sg@outlook.com" # modify
+category = "Web" # modify
+description = "" # modify
+
+
+[flag]
+value = ""       # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/spel_injection:challenge-web_v1.0" # modify
+port = "8080/tcp"

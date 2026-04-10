@@ -1,0 +1,11 @@
+name = "strings_attached2"
+author = "ablklice@gmail.com"
+category = "Reverse"
+description = "和某一道题加密算法一样，但好像又有一些不同"
+points = 150.0  # for event
+
+attachment = "attachment/strings_attached2.exe"
+
+[flag]
+value = "flag{YOU_FIND_IT_HAHA}"       # is empty stand for dynamic flag
+env_var = "FLAG"

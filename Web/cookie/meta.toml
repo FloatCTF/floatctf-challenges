@@ -1,0 +1,15 @@
+name = "cookie"
+author = "myx2727461997@gmail.com"
+category = "Web"
+description = """
+想成为管理员吗？也许你需要一个特殊的饼干！
+"""
+points = 50.0
+
+[flag]
+value = ""
+env_var = "FLAG"
+
+[docker]
+image_tag = "floatctf/cookie:challenge-web_v1.0"
+port = "80/tcp"

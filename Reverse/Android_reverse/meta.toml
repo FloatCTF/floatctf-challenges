@@ -1,0 +1,11 @@
+name = "Android_reverse"
+author = "ablklice@gmail.com"
+category = "Reverse"
+description = "简单的android逆向"
+points = 50.0  # for event
+
+attachment = "attachment/Android_reverse.apk"
+
+[flag]
+value = "flag{It_1S_@N_3asY_@nDr0)I)1|d}"       # is empty stand for dynamic flag
+env_var = "FLAG"

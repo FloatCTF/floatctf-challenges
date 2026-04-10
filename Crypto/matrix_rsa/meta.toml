@@ -1,0 +1,11 @@
+name = "matrix_rsa"
+author = "myx2727461997@gmail.com"
+category = "Crypto"
+description = "你告诉我什么叫矩阵RSA？"
+points = 1000.0
+
+attachment = "attachment/matrix_rsa.py"
+
+[flag]
+value = "floatctf{3asy_matr1x_rsa}"
+env_var = "FLAG"

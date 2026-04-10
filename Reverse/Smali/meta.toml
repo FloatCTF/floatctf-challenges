@@ -1,0 +1,11 @@
+name = "Smali"
+author = "ablklice@gmail.com"
+category = "Reverse"
+description = "smali后缀文件，何意味"
+points = 100.0  # for event
+
+attachment = "attachment/Crackme.smali"
+
+[flag]
+value = "floatctf{Sm4liRiver}"       # is empty stand for dynamic flag
+env_var = "FLAG"

@@ -1,0 +1,14 @@
+name = "backdoor"
+author = "fb0sh@outlook.com"
+category = "Web"
+description = "php backdoor"
+points = 200.0               # for event
+
+[flag]
+value = ""       # is empty stand for dynamic flag
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/backdoor:challenge-web_v1.0"
+port = "80/tcp"

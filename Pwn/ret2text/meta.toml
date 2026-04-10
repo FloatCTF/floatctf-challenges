@@ -1,0 +1,17 @@
+name = "ret2text"
+author = "fb0sh@outlook.com" # modify
+category = "Pwn" # modify
+description = "return to text segment" # modify
+points = 100.0
+
+attachment = "attachment/ret2text"
+
+[flag]
+value = ""       # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/ret2text:challenge-pwn_v1.0" # modify
+port = "1337/tcp"
+is_nc = true

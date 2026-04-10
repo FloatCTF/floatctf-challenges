@@ -1,0 +1,14 @@
+name = "frontend_bypass"
+author = "ablklice@gmail.com"
+category = "Web"
+description = "前端绕过"
+points = 50.0 # for event
+
+[flag]
+value = ""       # is empty stand for dynamic flag
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/frontend_bypass:challenge-web_v1.0"
+port = "80/tcp"

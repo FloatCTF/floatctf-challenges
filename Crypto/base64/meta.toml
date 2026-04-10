@@ -1,0 +1,10 @@
+name = "base64"
+author = "fb0sh@outlook.com"
+category = "Crypto"
+description = "ZmxhZ3tiMWQxZmNmNy01NzQyLTQ0OTctODYwOC1iZGU1NDlmMWQ1MmV9"
+
+
+[flag]
+value = "flag{b1d1fcf7-5742-4497-8608-bde549f1d52e}"       # is empty stand for dynamic flag
+env_var = "FLAG"
+

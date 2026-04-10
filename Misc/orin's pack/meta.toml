@@ -1,0 +1,11 @@
+name = "Orin's pack"
+author = "hakureiyukari01@gmail.com"
+category = "Misc"
+description = "阿燐在她的猫车中找到一个神秘压缩包"
+points = 50.0
+
+attachment = "attachment/orin.zip"
+
+[flag]
+value = "flag{komachi-53089-suki-1547563}"       # is empty stand for dynamic flag
+env_var = "FLAG"

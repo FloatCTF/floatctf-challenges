@@ -1,0 +1,11 @@
+name = "strings_attached1"
+author = "ablklice@gmail.com"
+category = "Reverse"
+description = "找到了一串字符串，要用什么算法解密呢"
+points = 100.0  # for event
+
+attachment = "attachment/strings_attached1.exe"
+
+[flag]
+value = "flag{YOU_FIND_IT_HAHA}"       # is empty stand for dynamic flag
+env_var = "FLAG"

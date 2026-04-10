@@ -1,0 +1,11 @@
+name = "ctf_start"
+author = "ablklice@gmail.com"
+category = "Misc"
+description = "这图片好像缺点什么"
+points = 50.0  # for event
+
+attachment = "attachment/CTF.jpg"
+
+[flag]
+value = "flag{CTF_kicks_off}"       # is empty stand for dynamic flag
+env_var = "FLAG"

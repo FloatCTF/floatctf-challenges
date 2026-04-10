@@ -1,0 +1,14 @@
+name = "learn_http"
+author = "fb0sh@outlook.com"
+category = "Web"
+description = "HTTP Protocol"
+points = 150.0                # for event
+
+[flag]
+value = ""       # is empty stand for dynamic flag
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/learn_http:challenge-web_v1.0"
+port = "80/tcp"

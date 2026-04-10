@@ -1,0 +1,11 @@
+name = "miku_flag"
+author = "ablklice@gmail.com"
+category = "Misc"
+description = "这图片好像缺点什么"
+points = 50.0  # for event
+
+attachment = "attachment/mikuflag.png"
+
+[flag]
+value = "flag{this_is_mikuflag}"       # is empty stand for dynamic flag
+env_var = "FLAG"

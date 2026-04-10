@@ -1,0 +1,17 @@
+name = "caesar"
+author = "myx2727461997@gmail.com"
+category = "Crypto"
+description = """
+凯撒大帝的秘密信息！
+
+密文：iordwfwi{fdhvdu_flskhu_lv_hdvb}
+
+提示1：这是最古老的加密方法之一
+提示2：凯撒密码的位移量通常在 1-25 之间
+提示3：试试往回移动 3 位
+"""
+points = 50.0
+
+[flag]
+value = "floatctf{caesar_cipher_is_easy}"
+env_var = "FLAG"

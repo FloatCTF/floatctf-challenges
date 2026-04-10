@@ -1,0 +1,13 @@
+name = "robots"
+author = "myx2727461997@gmail.com"
+category = "Web"
+description = "听说搜索引擎的爬虫都会先看 robots.txt 文件？"
+points = 50.0
+
+[flag]
+value = ""
+env_var = "FLAG"
+
+[docker]
+image_tag = "floatctf/robots:challenge-web_v1.0"
+port = "80/tcp"

@@ -1,0 +1,13 @@
+name = "FloatCTF-qidong"
+author = "myx2727461997@gmail.com"
+category = "Web"
+description = "大喊FloatCTF启动来获得flag吧"
+points = 100.0
+
+[flag]
+value = ""
+env_var = "FLAG"
+
+[docker]
+image_tag = "floatctf/floatctf-qidong:challenge-web_v1.0"
+port = "80/tcp"

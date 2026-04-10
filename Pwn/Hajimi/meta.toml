@@ -1,0 +1,14 @@
+name = "Hajimi"
+author = "myx2727461997@gmail.com"
+category = "Pwn"
+description = "我是耄耋，我还活着，拿nc拯救我吧，哈！！！"
+points = 50.0
+
+[flag]
+value = ""
+env_var = "FLAG"
+
+[docker]
+image_tag = "floatctf/hajimi:challenge-pwn_v1.0"
+port = "1337/tcp"
+is_nc = true

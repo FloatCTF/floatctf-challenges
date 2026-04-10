@@ -1,0 +1,12 @@
+name = "png"
+author = "fb0sh@outlook.com"
+category = "Misc"
+description = "图片里面有什么"
+
+
+attachment = "attachment/fr33t.png"
+
+[flag]
+value = "flag{8506842e-f825-4786-9380-1b4d7d51cdec}"       # is empty stand for dynamic flag
+env_var = "FLAG"
+
