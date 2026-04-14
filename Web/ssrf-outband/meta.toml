@@ -1,0 +1,13 @@
+name = "ssrf-outband"
+author = "fb0sh@outlook.com" # modify
+category = "Web" # modify
+description = "来看看我的项目 fb0sh/echout" # modify
+
+[flag]
+value = ""       # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/ssrf-outband:challenge-web_v1.0" # modify
+port = "80/tcp"

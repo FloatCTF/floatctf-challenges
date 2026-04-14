@@ -1,0 +1,14 @@
+name = "ssrf-port"
+author = "fb0sh@outlook.com" # modify
+category = "Web" # modify
+description = "听说CURL 可以访问网站" # modify
+
+
+[flag]
+value = ""       # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/ssrf-port:challenge-web_v1.0" # modify
+port = "80/tcp"

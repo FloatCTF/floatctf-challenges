@@ -1,0 +1,14 @@
+name = "ssrf-redis"
+author = "fb0sh@outlook.com" # modify
+category = "Web" # modify
+description = "Talk is cheap, show me the action." # modify
+
+
+[flag]
+value = ""       # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/ssrf-redis:challenge-web_v1.0" # modify
+port = "80/tcp"

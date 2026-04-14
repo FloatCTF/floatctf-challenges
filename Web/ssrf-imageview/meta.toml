@@ -1,0 +1,15 @@
+name = "ssrf-imageview"
+author = "fb0sh@outlook.com" # modify
+category = "Web" # modify
+description = "我的网站可以加载外部图片了耶" # modify
+
+
+
+[flag]
+value = ""       # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/ssrf-imageview:challenge-web_v1.0" # modify
+port = "80/tcp"

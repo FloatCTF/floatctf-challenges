@@ -1,0 +1,13 @@
+name = "ssrf-webshell"
+author = "fb0sh@outlook.com" # modify
+category = "Web" # modify
+description = "这次flag文件我改了名字，有本事你就打进来找一找,Tips: apache2" # modify
+
+[flag]
+value = ""       # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+
+[docker]
+image_tag = "floatctf/ssrf-webshell:challenge-web_v1.0" # modify
+port = "80/tcp"
