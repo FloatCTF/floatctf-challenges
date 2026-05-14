@@ -1,0 +1,12 @@
+name = "vulhub_flask_ssti"
+author = "fb0sh@outlook.com"  # modify
+category = "Web"  # modify
+description = "SSTI"  # modify
+
+[flag]
+value = ""  # is empty stand for dynamic flag # modify
+env_var = "FLAG"
+
+[docker]
+image_tag = "floatctf/flask_ssti:challenge-web_v1.0"  # modify
+port = "8000/tcp"
