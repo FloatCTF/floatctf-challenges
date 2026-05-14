@@ -1,0 +1,10 @@
+name = "ccb_latticecnn"
+author = "2727461997@qq.com"
+category = "AI"
+description = "Recover the hidden integer head of a tiny CNN-like model."
+points = 600.0
+attachment = "attachment/LatticeCNN.zip"
+
+[flag]
+value = "flag{7ffd71471b67009e1c39cfaa259cf7b2}"
+env_var = "FLAG"
