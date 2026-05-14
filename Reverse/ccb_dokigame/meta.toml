@@ -1,0 +1,10 @@
+name = "ccb_dokigame"
+author = "2727461997@qq.com"
+category = "Reverse"
+description = "一个简单的galgame"
+points = 600.0
+attachment = "attachment/dokigame.zip"
+
+[flag]
+value = "flag{f17c53c3-dc26-46b1-b373-2ca00a6a6721}"
+env_var = "FLAG"

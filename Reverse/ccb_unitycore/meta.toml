@@ -1,0 +1,10 @@
+name = "ccb_unitycore"
+author = "2727461997@qq.com"
+category = "Reverse"
+description = "一个中等难度的逆向"
+points = 600.0
+attachment = "attachment/dumbcpp.zip"
+
+[flag]
+value = "flag{f64827be-459a-416c-83bb-b172173f48a9}"
+env_var = "FLAG"

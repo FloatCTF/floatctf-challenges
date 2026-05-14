@@ -1,0 +1,10 @@
+name = "ccb_notjavaweb"
+author = "2727461997@qq.com"
+category = "Reverse"
+description = "公司内部开发了一个Java Web应用，不过好像并没有那么简单......"
+points = 800.0
+attachment = "attachment/attachment.zip"
+
+[flag]
+value = "flag{F1n@1ly_Y0u_G0t_Th1s_f1ag_and_f1nd_7h3_TRUTH_D0_Y0u_L1k3_1t?}"
+env_var = "FLAG"
