@@ -7,7 +7,7 @@
 | Misc | 7 |
 | Pwn | 2 |
 | Reverse | 5 |
-| Web | 14 |
+| Web | 19 |
 ## Challenges
 | 题目名称 | 分类 | 分值 | 作者 | 描述 |
 |---------|------|------|------|------|
@@ -41,6 +41,11 @@
 | [comment](Web/comment/meta.toml) | Web | 100.0 | fb0sh@outlook.com | 注释里面有什么？ |
 | [dir_enum](Web/dir_enum/meta.toml) | Web | 200.0 | fb0sh@outlook.com | 想必你一定知道什么是目录扫描吧 |
 | [learn_http](Web/learn_http/meta.toml) | Web | 150.0 | fb0sh@outlook.com | HTTP Protocol |
+| [ssrf-imageview](Web/ssrf-imageview/meta.toml) | Web | 0 | fb0sh@outlook.com | 我的网站可以加载外部图片了耶 |
+| [ssrf-outband](Web/ssrf-outband/meta.toml) | Web | 0 | fb0sh@outlook.com | 来看看我的项目 fb0sh/echout |
+| [ssrf-port](Web/ssrf-port/meta.toml) | Web | 0 | fb0sh@outlook.com | 听说CURL 可以访问网站 |
+| [ssrf-redis](Web/ssrf-redis/meta.toml) | Web | 0 | fb0sh@outlook.com | Talk is cheap, show me the action. |
+| [ssrf-webshell](Web/ssrf-webshell/meta.toml) | Web | 0 | fb0sh@outlook.com | 这次flag文件我改了名字，有本事你就打进来找一找,Tips: apache2 |
 | [FloatCTF-qidong](Web/FloatCTF-qidong/meta.toml) | Web | 100.0 | myx2727461997@gmail.com | 大喊FloatCTF启动来获得flag吧 |
 | [cookie](Web/cookie/meta.toml) | Web | 50.0 | myx2727461997@gmail.com | 想成为管理员吗？也许你需要一个特殊的饼干！ |
 | [robots](Web/robots/meta.toml) | Web | 50.0 | myx2727461997@gmail.com | 听说搜索引擎的爬虫都会先看 robots.txt 文件？ |
