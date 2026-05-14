@@ -1,0 +1,13 @@
+name = "ezjava"
+author = "fb0sh@floatctf.com"
+category = "Web"
+description = "Java deserialization is ez, right?"
+points = 100.0
+
+[flag]
+value = ""
+env_var = "FLAG"
+
+[docker]
+image_tag = "floatctf/ezjava:challenge-web_v1.0"
+port = "80/tcp"
