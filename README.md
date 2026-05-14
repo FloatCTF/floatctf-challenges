@@ -10,7 +10,7 @@
 | Misc | 7 |
 | Pwn | 2 |
 | Reverse | 5 |
-| Web | 19 |
+| Web | 21 |
 ## Challenges
 | 题目名称 | 分类 | 分值 | 作者 | 描述 |
 |---------|------|------|------|------|
@@ -49,6 +49,8 @@
 | [ssrf-port](Web/ssrf-port/meta.toml) | Web | 0 | fb0sh@outlook.com | 听说CURL 可以访问网站 |
 | [ssrf-redis](Web/ssrf-redis/meta.toml) | Web | 0 | fb0sh@outlook.com | Talk is cheap, show me the action. |
 | [ssrf-webshell](Web/ssrf-webshell/meta.toml) | Web | 0 | fb0sh@outlook.com | 这次flag文件我改了名字，有本事你就打进来找一找,Tips: apache2 |
+| [vulhub_flask_ssti](Web/vulhub_flask_ssti/meta.toml) | Web | 0 | fb0sh@outlook.com | SSTI |
+| [vulhub_weblogic_cve-2017-1021](Web/vulhub_weblogic_cve-2017-1021/meta.toml) | Web | 0 | fb0sh@outlook.com | weblogic |
 | [FloatCTF-qidong](Web/FloatCTF-qidong/meta.toml) | Web | 100.0 | myx2727461997@gmail.com | 大喊FloatCTF启动来获得flag吧 |
 | [cookie](Web/cookie/meta.toml) | Web | 50.0 | myx2727461997@gmail.com | 想成为管理员吗？也许你需要一个特殊的饼干！ |
 | [robots](Web/robots/meta.toml) | Web | 50.0 | myx2727461997@gmail.com | 听说搜索引擎的爬虫都会先看 robots.txt 文件？ |
