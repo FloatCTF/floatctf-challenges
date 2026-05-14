@@ -5,15 +5,16 @@
 ## Category Summary
 | 分类 | 题目数量 |
 |------|----------|
-| AI | 1 |
+| AI | 2 |
 | Crypto | 4 |
 | Misc | 7 |
 | Pwn | 2 |
-| Reverse | 5 |
+| Reverse | 8 |
 | Web | 22 |
 ## Challenges
 | 题目名称 | 分类 | 分值 | 作者 | 描述 |
 |---------|------|------|------|------|
+| [ccb_latticecnn](AI/ccb_latticecnn/meta.toml) | AI | 600.0 | 2727461997@qq.com | Recover the hidden integer head of a tiny CNN-like model. |
 | [AI_shell](AI/AI_shell/meta.toml) | AI | 100.0 | fb0sh@outlook.com | 这个执行命令小模型，会听你的话吗？ |
 | [base64](Crypto/base64/meta.toml) | Crypto | 0 | fb0sh@outlook.com | ZmxhZ3tiMWQxZmNmNy01NzQyLTQ0OTctODYwOC1iZGU1NDlmMWQ1MmV9 |
 | [xzmu_anime_club](Crypto/xzmu_anime_club/meta.toml) | Crypto | 50.0 | hakureiyukari01@gmail.com | 这里是西藏民族大学动漫社，欢迎来玩 |
@@ -28,6 +29,9 @@
 | [Flag_in_the_model](Misc/Flag_in_the_model/meta.toml) | Misc | 100.0 | myx2727461997@gmail.com | .pt？这是什么后缀名？ |
 | [ret2text](Pwn/ret2text/meta.toml) | Pwn | 100.0 | fb0sh@outlook.com | return to text segment |
 | [Hajimi](Pwn/Hajimi/meta.toml) | Pwn | 50.0 | myx2727461997@gmail.com | 我是耄耋，我还活着，拿nc拯救我吧，哈！！！ |
+| [ccb_dokigame](Reverse/ccb_dokigame/meta.toml) | Reverse | 600.0 | 2727461997@qq.com | 一个简单的galgame |
+| [ccb_notjavaweb](Reverse/ccb_notjavaweb/meta.toml) | Reverse | 800.0 | 2727461997@qq.com | 公司内部开发了一个Java Web应用，不过好像并没有那么简单...... |
+| [ccb_unitycore](Reverse/ccb_unitycore/meta.toml) | Reverse | 600.0 | 2727461997@qq.com | 一个中等难度的逆向 |
 | [Android_reverse](Reverse/Android_reverse/meta.toml) | Reverse | 50.0 | ablklice@gmail.com | 简单的android逆向 |
 | [Smali](Reverse/Smali/meta.toml) | Reverse | 100.0 | ablklice@gmail.com | smali后缀文件，何意味 |
 | [easy_reverse](Reverse/easy_reverse/meta.toml) | Reverse | 200.0 | ablklice@gmail.com | 使用tea算法进行解密,答案使用flag{}进行包裹 |
