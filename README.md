@@ -10,7 +10,7 @@
 | Misc | 7 |
 | Pwn | 2 |
 | Reverse | 5 |
-| Web | 21 |
+| Web | 22 |
 ## Challenges
 | 题目名称 | 分类 | 分值 | 作者 | 描述 |
 |---------|------|------|------|------|
@@ -40,6 +40,7 @@
 | [vulhub_shiro_1.2.4](Web/vulhub_shiro_1.2.4/meta.toml) | Web | 0 | fb0sg@outlook.com |  |
 | [vulhub_spel_injection](Web/vulhub_spel_injection/meta.toml) | Web | 0 | fb0sg@outlook.com |  |
 | [vulhub_thinkphp_5.0.23](Web/vulhub_thinkphp_5.0.23/meta.toml) | Web | 0 | fb0sg@outlook.com |  |
+| [ezjava](Web/ezjava/meta.toml) | Web | 100.0 | fb0sh@floatctf.com | Java deserialization is ez, right? |
 | [backdoor](Web/backdoor/meta.toml) | Web | 200.0 | fb0sh@outlook.com | php backdoor |
 | [comment](Web/comment/meta.toml) | Web | 100.0 | fb0sh@outlook.com | 注释里面有什么？ |
 | [dir_enum](Web/dir_enum/meta.toml) | Web | 200.0 | fb0sh@outlook.com | 想必你一定知道什么是目录扫描吧 |
